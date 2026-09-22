@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">القيري الأسطورة</string>
+    <string name="app_subtitle">عقلك اليمني الثاني</string>
+    <string name="scan_phone">افحص جوالي</string>
+    <string name="execute_btn">نفذ يا قيري</string>
+    <string name="stop_btn">وقّف</string>
+    <string name="input_hint">اكتب امرك او اضغط 🎤 وتكلم…</string>
+    <string name="drawer_title">📁 مجلدات القيري</string>
+    <string name="thinking">القيري يشتغل…</string>
+    <string name="confirm_title">تأكيد التنفيذ</string>
+    <string name="confirm_yes">نفذ ✅</string>
+    <string name="confirm_no">الغاء</string>
+    <string name="settings_title">⚙️ الاعدادات</string>
+    <string name="settings_key">مفتاح Anthropic API</string>
+    <string name="settings_model">النموذج</string>
+    <string name="settings_save">حفظ</string>
+    <string name="settings_note">المفتاح يتخزن مشفّر على جوالك فقط. بدونه القيري يشتغل بالاوامر الاساسية بدون انترنت.</string>
+    <string name="menu_settings">⚙️ الاعدادات (مفتاح API)</string>
+    <string name="menu_permissions">🔐 منح الصلاحيات</string>
+    <string name="menu_allfiles">📂 صلاحية كل الملفات</string>
+    <string name="menu_newchat">🧹 محادثة جديدة</string>
+</resources>

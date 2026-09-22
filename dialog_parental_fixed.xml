@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:background="@android:color/white">
+
+    <TextView
+        android:id="@+id/tv_parental_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Parental Verification"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="#0F172A" />
+
+    <TextView
+        android:id="@+id/tv_parental_question"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:text="Please solve: 12 + 7 ="
+        android:textSize="16sp"
+        android:textColor="#475569" />
+
+    <EditText
+        android:id="@+id/et_parental_answer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:hint="Enter answer"
+        android:inputType="number"
+        android:backgroundTint="#64748B" />
+
+    <Button
+        android:id="@+id/btn_parental_confirm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:backgroundTint="#1E293B"
+        android:text="Verify"
+        android:textColor="@android:color/white" />
+
+</LinearLayout>

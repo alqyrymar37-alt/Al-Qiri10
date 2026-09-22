@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.AlQiri" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/qiri_bg</item>
+        <item name="android:statusBarColor">@color/qiri_bg</item>
+        <item name="android:navigationBarColor">@color/qiri_bg</item>
+    </style>
+</resources>
